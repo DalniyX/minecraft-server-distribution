@@ -1,4 +1,6 @@
 {
-  "mods": [],
+  "mods": [
+    "jei-26.1.2-fabric-29.6.2.31.jar"
+  ],
   "configs": []
 }
