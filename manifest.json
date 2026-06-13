@@ -1,4 +1,8 @@
 {
-  "mods": [],
+  "mods": [
+    "BiomesOPlenty-fabric-26.1.2-26.1.2.0.16.jar",
+    "advancednetherite-fabric-2.4.1-26.1.2.jar",
+    "artifacts-fabric-15.0.0.jar"
+  ],
   "configs": []
 }
