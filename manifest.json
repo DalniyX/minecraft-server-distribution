@@ -8,6 +8,10 @@
     {
       "name": "fabric-api-0.151.0+26.1.2.jar",
       "hash": "8dae604caafc4179617ee87f73bfb4a7885f7db21ed752b375c64e41924641d6"
+    },
+    {
+      "name": "malilib-fabric-26.1.2-0.28.6.jar",
+      "hash": "f881ab065a2bc5534bb24442c20469ba3d29d129450e1d8574b50a0e087a044d"
     }
   ],
   "configs": []
