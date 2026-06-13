@@ -1,6 +1,7 @@
 {
   "mods": [
     "artifacts-fabric-15.0.0.jar",
-    "cloth-config-26.1.154.jar"
+    "cloth-config-26.1.154.jar",
+    "delightlib-26.05.18-26.1-fabric.jar"
   ]
 }
