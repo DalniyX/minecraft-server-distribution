@@ -7,8 +7,6 @@
     "litematica-fabric-26.1.2-0.27.6.jar",
     "trinkets-4.0.0-beta.2+26.1.jar"
   ],
-  "configs": [
-    "cloth-config-26.1.154.jar"
-  ],
+  "configs": [],
   "plugins": []
 }
