@@ -2,8 +2,5 @@
   "version": "1.0.0",
   "minecraft_version": "1.26.2",
   "fabric_version": "0.15.11",
-  "mods": [
-    "Fabric-API.jar",
-    "Fuji.jar"
-  ]
+  "mods": []
 }
