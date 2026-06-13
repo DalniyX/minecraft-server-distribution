@@ -1,10 +1,5 @@
 {
   "launcher_version": "1.0",
-  "mods": [
-    {
-      "name": "xaeroworldmap-fabric-26.1.2-1.40.18.jar",
-      "hash": "093f50d1c95485812edd79b9ce67dbdaea2fff596e49f1e18618ac0f311416d7"
-    }
-  ],
+  "mods": [],
   "configs": []
 }
