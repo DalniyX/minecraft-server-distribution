@@ -1,5 +1,10 @@
 {
   "launcher_version": "2.0",
-  "mods": [],
+  "mods": [
+    {
+      "name": "cristellib-fabric-26.1.2-3.1.4.jar",
+      "hash": "b90a7adbb30414f59f6e21479b1f1876939d1fb5634fc48bb03f4fbd1b10df57"
+    }
+  ],
   "configs": []
 }
