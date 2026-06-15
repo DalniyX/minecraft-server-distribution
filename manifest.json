@@ -1,14 +1,5 @@
 {
   "launcher_version": "2.3",
-  "mods": [
-    {
-      "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "hash": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832"
-    },
-    {
-      "name": "iris-fabric-1.10.9+mc26.1.1.jar",
-      "hash": "aea0eefb174d19ad97a812b6de2e304f0d3abc50357b316908cf1035f1514b07"
-    }
-  ],
+  "mods": [],
   "config": []
 }
