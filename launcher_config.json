@@ -1,1 +1,29 @@
-
+{
+  "version": "2.3",
+  "launcher_min_version": "2.4",
+  "features": {
+    "auto_update": true,
+    "check_minecraft_running": true,
+    "max_download_threads": 5,
+    "show_custom_mods": true,
+    "auto_sync_on_start": false
+  },
+  "ui": {
+    "title": "MC Mod Updater",
+    "subtitle": "Автоматическое обновление модов",
+    "primary_color": "#7c6af7",
+    "background_color": "#0f0f13",
+    "show_progress_details": true,
+    "welcome_message": "Добро пожаловать в MC Mod Updater!"
+  },
+  "urls": {
+    "manifest": "manifest.json",
+    "changelog": "https://github.com/DalniyX/minecraft-server-distribution/releases",
+    "support": "https://t.me/your_support_channel"
+  },
+  "behavior": {
+    "confirm_deletion": true,
+    "backup_before_update": false,
+    "keep_custom_mods": true
+  }
+}
