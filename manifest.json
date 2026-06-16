@@ -1,9 +1,10 @@
 {
-  "launcher_version": "2.3",
+  "launcher_version": "2.1",
   "mods": [
     {
       "name": "delightlib-26.05.18-26.1-fabric.jar",
-      "hash": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d"
+      "hash": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d",
+      "sha256": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d"
     }
   ],
   "config": []
