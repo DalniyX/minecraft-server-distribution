@@ -1,0 +1,56 @@
+{
+  "launcher_version": "1.1.1",
+  "admin_pwd_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+  "minecraft_version": "1.20.1",
+  "loader_type": "Fabric",
+  "files": [
+    {
+      "name": "sodium-fabric-mc1.20.1-0.5.8.jar",
+      "size": 4238512,
+      "sha256": "ea8458da9b071a93bd855666f2ab448a918ea845bd28aede9046bfda585566f1",
+      "category": "Optimization",
+      "description": "Высокоэффективный графический движок для Minecraft, заменяющий рендерер игры.",
+      "version": "0.5.8"
+    },
+    {
+      "name": "lithium-fabric-mc1.20.1-0.11.2.jar",
+      "size": 1980310,
+      "sha256": "7c2bee2da9b071a93bd855cda7782da9428ea845bd28aede9046bfda585566f22",
+      "category": "Optimization",
+      "description": "Общая оптимизация физики, чанков и ИИ существ без изменения их поведения.",
+      "version": "0.11.2"
+    },
+    {
+      "name": "create-fabric-1.20.1-0.5.1-f.jar",
+      "size": 16429510,
+      "sha256": "f42a58da9b071a93bd55666f2ab448a918ea845bd28aede9046bfda585566f333",
+      "category": "Content",
+      "description": "Огромный мод на автоматизацию, шестеренки, логистику, кинетическую энергию и декор.",
+      "version": "0.5.1"
+    },
+    {
+      "name": "jei-1.20.1-fabric-15.3.0.4.jar",
+      "size": 3120550,
+      "sha256": "b452e8da9b071a93bd855666f2ab448a918ea845bd28aede9046bfda585566f444",
+      "category": "Core",
+      "description": "Удобный интерфейс для просмотра рецептов крафта, плавки и совместимости.",
+      "version": "15.3.0.4"
+    },
+    {
+      "name": "ferritecore-5.0.3-fabric.jar",
+      "size": 284050,
+      "sha256": "2bf2e8da9b071a93bd855666f2ab448a918ea845bd28aede9046bfda585566f555",
+      "category": "Optimization",
+      "description": "Уменьшает потребление оперативной памяти Java-объектами на десятки мегабайт.",
+      "version": "5.0.3"
+    },
+    {
+      "name": "fabric-api-0.92.0+1.20.1.jar",
+      "size": 8940300,
+      "sha256": "e442e8da9b071a93bd855666f2ab448a918ea845bd28aede9046bfda585566f666",
+      "category": "Library",
+      "description": "Основное API для поддержки совместимости и работы модов под Fabric Loader.",
+      "version": "0.92.0"
+    }
+  ]
+}
