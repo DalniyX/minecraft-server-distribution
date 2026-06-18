@@ -1,7 +1,203 @@
 {
   "launcher_version": "1.1.2",
-  "admin_pwd_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+  "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "1.20.1",
   "loader_type": "Fabric",
-  "files": []
+  "files": [
+    {
+      "name": "advancednetherite-fabric-2.4.1-26.1.2.jar",
+      "size": 581014,
+      "sha256": "dev_sha256_4bf6f2vloa2nqnav",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "artifacts-fabric-15.0.0.jar",
+      "size": 1454486,
+      "sha256": "dev_sha256_u3d51hv6gzs6q3yl",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "BiomesOPlenty-fabric-26.1.2-26.1.2.0.16.jar",
+      "size": 23076561,
+      "sha256": "dev_sha256_07qyea8qbft4s0uk",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cloth-config-26.1.154.jar",
+      "size": 1135373,
+      "sha256": "dev_sha256_lrkm4fzkaxz9n6sn",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cristellib-fabric-26.1.2-3.1.4.jar",
+      "size": 587133,
+      "sha256": "dev_sha256_y2mkbpzkmcly3g7w",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "delightlib-26.05.18-26.1-fabric.jar",
+      "size": 62056,
+      "sha256": "dev_sha256_lamttw7j6vawvoya",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "fabric-api-0.151.0+26.1.2.jar",
+      "size": 2498064,
+      "sha256": "dev_sha256_miozf72xzmux8etm",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "size": 8076848,
+      "sha256": "dev_sha256_u5d8z8attu8pptrm",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "FarmersDelight-26.1-3.6.5+refabricated.jar",
+      "size": 3307395,
+      "sha256": "dev_sha256_0njf8oer9jlrec8i",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
+      "size": 609711,
+      "sha256": "dev_sha256_h2whnaix96fneysq",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "GlitchCore-fabric-26.1.2-26.1.2.0.2.jar",
+      "size": 334853,
+      "sha256": "dev_sha256_xmfyej41blrefa0i",
+      "category": "Core",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
+      "size": 1459874,
+      "sha256": "dev_sha256_c3qpuduhl17ualt6",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "iris-fabric-1.10.9+mc26.1.1.jar",
+      "size": 2803860,
+      "sha256": "dev_sha256_ghuypgj7ufru59vj",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "jei-26.1.2-fabric-29.6.2.31.jar",
+      "size": 1513607,
+      "sha256": "dev_sha256_6lcphd9a8ingkee2",
+      "category": "Core",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "libIPN-fabric-26.1.2-6.8.0.jar",
+      "size": 628598,
+      "sha256": "dev_sha256_gijm6cvvhmh9q462",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "mcw-furniture-3.4.2-mc26.1fabric.jar",
+      "size": 2386998,
+      "sha256": "dev_sha256_osa0rtlgzyxynzh1",
+      "category": "Content",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "moredelight-26.05.26-26.1-fabric.jar",
+      "size": 158813,
+      "sha256": "dev_sha256_t3omwt2fs1kvlaq5",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "placeholder-api-3.0.0+26.1.jar",
+      "size": 254376,
+      "sha256": "dev_sha256_d8uh34xy3589cvlm",
+      "category": "Library",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+      "size": 1844226,
+      "sha256": "dev_sha256_x68hf9tweevk2kl1",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "TerraBlender-fabric-26.1.2-26.1.2.0.2.jar",
+      "size": 341127,
+      "sha256": "dev_sha256_3tra9mardji5s861",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "trinkets-4.0.0-beta.2+26.1.jar",
+      "size": 546239,
+      "sha256": "dev_sha256_b6acz076aiiju5op",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "WorldEditCUI-26.1.1+01.jar",
+      "size": 685215,
+      "sha256": "dev_sha256_vaufgk62tca7tg01",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "xaerominimap-fabric-26.1.2-25.3.14.jar",
+      "size": 2165398,
+      "sha256": "dev_sha256_g9famivovlupjyry",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "xaeroworldmap-fabric-26.1.2-1.40.18.jar",
+      "size": 1442748,
+      "sha256": "dev_sha256_3qnzyht57or9fl92",
+      "category": "Optimization",
+      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
+      "version": "1.0.0"
+    }
+  ],
+  "accent_color": "#ff2a2a",
+  "primary_color": "#ff8a00",
+  "ai_changelog": "### 🚀 Обновление сборки! Приготовьтесь к новым приключениям! 🚀\n\nВ этой версии мы добавили множество крутых фишек и оптимизаций, чтобы твоя игра стала ещё лучше:\n\n*   ✨ **Advanced Netherite**: Теперь ты можешь ковать крутую незеритовую экипировку с новыми свойствами!\n*   🌟 **Artifacts**: Отправляйся на поиски могущественных артефактов, дающих особые бонусы в твоих приключениях!\n*   🌳 **Biomes O' Plenty**: Путешествуй по невероятным новым биомам, каждый из которых полон уникальных открытий!\n*   ⚙️ **Cloth Config**: Это техническое улучшение сборки, обеспечивающее удобную настройку модов.\n*   📚 **Cristellib**: Техническое улучшение сборки.\n*   🍎 **Delightful Lib**: Техническая библиотека для улучшения кулинарных приключений.\n*   🛠️ **Fabric API**: Обновлён основной движок для всех твоих Fabric-модов, обеспечивая стабильную работу.\n*   👨‍💻 **Fabric Language Kotlin**: Техническое улучшение сборки, позволяющее некоторым модам работать ещё лучше.\n*   🧑‍🍳 **Farmer's Delight**: Расширяет твои кулинарные горизонты с новыми фермерскими культурами и рецептами.\n*   🔧 **Forge Config API Port**: Техническое улучшение сборки для лучшей совместимости конфигов.\n*   💡 **GlitchCore**: Техническое улучшение сборки.\n*   💼 **Inventory Profiles Next**: Теперь твой инвентарь всегда будет в идеальном порядке благодаря функциям автосортировки!\n*   🌈 **Iris Shaders**: Приготовься к визуальному преображению — теперь ты можешь наслаждаться шейдерами прямо в игре!\n*   📖 **Just Enough Items (JEI)**: Забудь о Вики — теперь все рецепты крафта и использования предметов у тебя под рукой!\n*   🗃️ **libIPN**: Техническое улучшение для твоего инвентаря.\n*   🛋️ **Macaw's Furniture**: Создавай уют в своих домах с огромным выбором новой мебели!\n*   🌶️ **More Delight**: Ещё больше аппетитных рецептов и ингредиентов для твоей фермы и кухни!\n*   📝 **Placeholder API**: Техническое улучшение сборки.\n*   🚀 **Sodium**: Твоя игра теперь летает! Мощнейшая оптимизация графики для супер-плавного геймплея.\n*   🌍 **TerraBlender**: Техническое улучшение сборки, обеспечивающее более гармоничное смешивание новых биомов.\n*   💍 **Trinkets**: Теперь ты можешь экипировать ещё больше крутых \"безделушек\" в новые слоты!\n*   📐 **WorldEditCUI**: Визуализируй свои выделения WorldEdit прямо в игре для точного строительства!\n*   🧭 **Xaero's Minimap**: Никогда не заблудишься с новой миникартой, отображающей всё вокруг!\n*   🗺️ **Xaero's Worldmap**: Исследуй мир и отмечай важные места на новой глобальной карте!"
 }
