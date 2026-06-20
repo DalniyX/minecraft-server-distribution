@@ -3,16 +3,7 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "1.26.2",
   "loader_type": "Fabric",
-  "files": [
-    {
-      "name": "xaerominimap-fabric-26.1.2-25.3.14.jar",
-      "size": 2165398,
-      "sha256": "dev_sha256_9w244lclnnxl8c3n",
-      "category": "Optimization",
-      "description": "Автоматически обнаружен и добавлен разработчиком из папки сборки.",
-      "version": "1.0.0"
-    }
-  ],
+  "files": [],
   "accent_color": "#ff2a2a",
   "primary_color": "#ff8a00",
   "ai_changelog": "В этот раз без обновлений! 🚧 Все стабильно и готово к игре. 🎮"
