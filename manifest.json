@@ -12,11 +12,20 @@
       "description": "Добавлен новый артефакт Fabric, версия 15.0.0.",
       "version": "1.0.0",
       "slug": "artifacts"
+    },
+    {
+      "name": "WorldEditCUI-26.1.1+01.jar",
+      "size": 685215,
+      "sha256": "dev_sha256_dk4i2iot",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "worldeditcui"
     }
   ],
   "accent_color": "#bb86fc",
   "primary_color": "#03dac6",
-  "ai_changelog": "Добавлен новый файл: artifacts-fabric-15.0.0.jar.",
+  "ai_changelog": "🚀 ОБНОВЛЕНИЕ СБОРКИ\n\n✨ ДОБАВЛЕНО:\n• Мелкие системные исправления и оптимизация.",
   "ai_disabled": false,
   "background_image": "https://i.pinimg.com/originals/ac/c6/c0/acc6c0a31bf2c71b3330a87055f34757.jpg?nii=t"
 }
