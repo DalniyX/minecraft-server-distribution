@@ -5,31 +5,17 @@
   "loader_type": "Fabric",
   "files": [
     {
-      "name": "sodium.jar",
-      "size": 1887436,
-      "sha256": "dev_sha256_vbx42nj6",
+      "name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+      "size": 1844226,
+      "sha256": "dev_sha256_s7wberwe",
       "category": "Optimization",
-      "description": "Кастомный плагин",
-      "version": "1.0.0"
-    },
-    {
-      "name": "fabric-api.jar",
-      "size": 1204500,
-      "sha256": "dev_sha256_y3z7btlo",
-      "category": "Library",
-      "description": "Официальный Fabric API для совместимости плагинов и модов.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "indium-fabric.jar",
-      "size": 450100,
-      "sha256": "dev_sha256_bl7blavz",
-      "category": "Optimization",
-      "description": "Адаптивный рендеринг Indium для совместимости Sodium с рендер-модами.",
-      "version": "1.0.0"
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "sodium"
     }
   ],
-  "accent_color": "#ff0055",
-  "primary_color": "#00ffcc",
-  "ai_changelog": "В этот раз без обновлений! 🚧 Все стабильно и готово к игре. 🎮"
+  "accent_color": "#bb86fc",
+  "primary_color": "#03dac6",
+  "ai_changelog": "В этот раз без обновлений! 🚧 Все стабильно и готово к игре. 🎮",
+  "ai_disabled": false
 }
