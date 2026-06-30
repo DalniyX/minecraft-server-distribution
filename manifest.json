@@ -17,5 +17,6 @@
   "accent_color": "#bb86fc",
   "primary_color": "#03dac6",
   "ai_changelog": "В этот раз без обновлений! 🚧 Все стабильно и готово к игре. 🎮",
-  "ai_disabled": false
+  "ai_disabled": false,
+  "background_image": "https://i.pinimg.com/originals/ac/c6/c0/acc6c0a31bf2c71b3330a87055f34757.jpg?nii=t"
 }
