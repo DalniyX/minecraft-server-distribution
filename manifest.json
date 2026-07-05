@@ -4,6 +4,6 @@
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
   "files": [],
-  "accent_color": "#bb86fc",
-  "primary_color": "#03dac6"
+  "accent_color": "#00ff66",
+  "primary_color": "#33ccff"
 }
