@@ -3,7 +3,35 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "iris-fabric-1.10.9+mc26.1.1.jar",
+      "size": 2803860,
+      "sha256": "dev_sha256_wvk7zpfz",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "iris"
+    },
+    {
+      "name": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "size": 971552,
+      "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "category": "Optimization",
+      "description": "Графический движок оптимизации Sodium.",
+      "version": "mc1.20.1-0.5.13-fabric",
+      "slug": "sodium"
+    },
+    {
+      "name": "fabric-api-0.92.9+1.20.1.jar",
+      "size": 2111565,
+      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "category": "Library",
+      "description": "Интерфейсный API загрузчика модов Fabric.",
+      "version": "0.92.9+1.20.1",
+      "slug": "fabric-api"
+    }
+  ],
   "accent_color": "#00ff66",
   "primary_color": "#33ccff",
   "ai_disabled": true
