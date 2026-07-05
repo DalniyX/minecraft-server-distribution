@@ -5,15 +5,6 @@
   "loader_type": "Fabric",
   "files": [
     {
-      "name": "fabric-api-0.92.9+1.20.1.jar",
-      "size": 2111565,
-      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
-      "category": "Library",
-      "description": "Основная библиотека, необходимая для запуска большинства модов на Fabric.",
-      "version": "0.92.9+1.20.1",
-      "slug": "fabric-api"
-    },
-    {
       "name": "indium-1.0.36+mc1.20.1.jar",
       "size": 105382,
       "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
