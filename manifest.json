@@ -12,6 +12,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "cristellib"
+    },
+    {
+      "name": "jei-26.1.2-fabric-29.6.2.31.jar",
+      "size": 1513607,
+      "sha256": "dev_sha256_n1v27xp2",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "jei"
     }
   ],
   "accent_color": "#3498DB",
