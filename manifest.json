@@ -43,7 +43,7 @@
   ],
   "accent_color": "#bb86fc",
   "primary_color": "#03dac6",
-  "ai_changelog": "🚀 ОБНОВЛЕНИЕ СБОРКИ\n\n✨ ДОБАВЛЕНО:\n• sodium-fabric-0.5.13+mc1.20.1.jar — Улучшает производительность клиента.\n• fabric-api-0.92.9+1.20.1.jar — Базовая библиотека для работы модов Fabric.\n• indium-1.0.36+mc1.20.1.jar — Добавляет поддержку Fabric Render API.",
+  "ai_changelog": "🚀 ОБНОВЛЕНИЕ СБОРКИ\n\n✨ ДОБАВЛЕНО:\n• Изменения файлов — Обновлены файлы дл\n\n🗑 УДАЛЕНО:\n• Удаления — Устранены устаревшие или избыточные компоненты для оптимизации.",
   "ai_disabled": false,
   "background_image": "https://i.pinimg.com/originals/ac/c6/c0/acc6c0a31bf2c71b3330a87055f34757.jpg?nii=t"
 }
