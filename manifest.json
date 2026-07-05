@@ -12,6 +12,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "moredelight"
+    },
+    {
+      "name": "xaerominimap-fabric-26.1.2-25.3.14.jar",
+      "size": 2165398,
+      "sha256": "dev_sha256_i432pln2",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "xaerominimap"
     }
   ],
   "accent_color": "#ff2a2a",
