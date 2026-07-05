@@ -21,6 +21,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "worldeditcui"
+    },
+    {
+      "name": "Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "size": 748843,
+      "sha256": "dev_sha256_zz6mr2ix",
+      "category": "Resourcepack",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "default"
     }
   ],
   "accent_color": "#ff2a2a",
