@@ -4,5 +4,5 @@
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
   "files": [],
-  "ai_disabled": true
+  "ai_disabled": false
 }
