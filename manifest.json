@@ -3,7 +3,35 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "size": 971552,
+      "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "category": "Optimization",
+      "description": "Скачан из Modrinth",
+      "version": "mc1.20.1-0.5.13-fabric",
+      "slug": "sodium"
+    },
+    {
+      "name": "fabric-api-0.92.9+1.20.1.jar",
+      "size": 2111565,
+      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "category": "Library",
+      "description": "Официальный Fabric API для совместимости плагинов и модов.",
+      "version": "0.92.9+1.20.1",
+      "slug": "fabric-api"
+    },
+    {
+      "name": "indium-1.0.36+mc1.20.1.jar",
+      "size": 105382,
+      "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "category": "Optimization",
+      "description": "Адаптивный рендеринг Indium для совместимости Sodium с рендер-модами.",
+      "version": "1.0.36+mc1.20.1",
+      "slug": "indium"
+    }
+  ],
   "accent_color": "#bb86fc",
   "primary_color": "#03dac6",
   "ai_changelog": "🚀 ОБНОВЛЕНИЕ СБОРКИ\n\n✨ ДОБАВЛЕНО:\n• Мелкие системные исправления и оптимизация.\n\n🗑 УДАЛЕНО:\n• WorldEditCUI-26.1.1+01.jar — Удален из сборки.",
