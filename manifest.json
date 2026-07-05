@@ -21,6 +21,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "xaerominimap"
+    },
+    {
+      "name": "mcw-furniture-3.4.2-mc26.1fabric.jar",
+      "size": 2386998,
+      "sha256": "dev_sha256_5zh2qqja",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "mcw"
     }
   ],
   "accent_color": "#ff2a2a",
