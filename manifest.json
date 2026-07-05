@@ -1,7 +1,7 @@
 {
   "launcher_version": "1.2.0",
   "admin_pwd_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
-  "minecraft_version": "1.20.1",
+  "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
   "files": []
 }
