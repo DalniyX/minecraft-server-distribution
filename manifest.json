@@ -3,35 +3,7 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [
-    {
-      "name": "moredelight-26.05.26-26.1-fabric.jar",
-      "size": 158813,
-      "sha256": "dev_sha256_hi7qmvit",
-      "category": "Optimization",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "moredelight"
-    },
-    {
-      "name": "xaerominimap-fabric-26.1.2-25.3.14.jar",
-      "size": 2165398,
-      "sha256": "dev_sha256_i432pln2",
-      "category": "Optimization",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "xaerominimap"
-    },
-    {
-      "name": "mcw-furniture-3.4.2-mc26.1fabric.jar",
-      "size": 2386998,
-      "sha256": "dev_sha256_5zh2qqja",
-      "category": "Optimization",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "mcw"
-    }
-  ],
+  "files": [],
   "accent_color": "#ff2a2a",
   "primary_color": "#ff8a00",
   "ai_disabled": false,
