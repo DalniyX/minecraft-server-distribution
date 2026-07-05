@@ -3,7 +3,26 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "cristellib-fabric-26.1.2-3.1.4.jar",
+      "size": 587133,
+      "sha256": "dev_sha256_u4ua3bgs",
+      "category": "Library",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "cristellib"
+    },
+    {
+      "name": "Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "size": 748843,
+      "sha256": "dev_sha256_81lkxi11",
+      "category": "Resourcepack",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "default"
+    }
+  ],
   "accent_color": "#ff2a2a",
   "primary_color": "#ff8a00",
   "ai_disabled": false,
