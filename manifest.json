@@ -3,26 +3,7 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [
-    {
-      "name": "cristellib-fabric-26.1.2-3.1.4.jar",
-      "size": 587133,
-      "sha256": "dev_sha256_mqb3q6t0",
-      "category": "Library",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "cristellib"
-    },
-    {
-      "name": "jei-26.1.2-fabric-29.6.2.31.jar",
-      "size": 1513607,
-      "sha256": "dev_sha256_n1v27xp2",
-      "category": "Optimization",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "jei"
-    }
-  ],
+  "files": [],
   "accent_color": "#3498DB",
   "primary_color": "#2C3E50",
   "ai_disabled": false,
