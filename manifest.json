@@ -16,7 +16,7 @@
   ],
   "accent_color": "#3498DB",
   "primary_color": "#2C3E50",
-  "ai_disabled": true,
+  "ai_disabled": false,
   "ai_changelog": "🚀 ОБНОВЛЕНИЕ СБОРКИ\n\n✨ ДОБАВЛЕНО:\n• Изменения файлов — Различные правки и обновления существующих компонентов.\n\n🗑 УДАЛЕНО:\n• Удаления — Та все нормально!",
   "background_image": "https://i.pinimg.com/originals/73/15/b0/7315b0a02379baab7180851f743bd237.png?nii=t",
   "bg_blur": 2
