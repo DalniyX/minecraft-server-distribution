@@ -30,6 +30,15 @@
       "description": "Адаптивный рендеринг Indium для совместимости Sodium с рендер-модами.",
       "version": "1.0.36+mc1.20.1",
       "slug": "indium"
+    },
+    {
+      "name": "delightlib-26.05.18-26.1-fabric.jar",
+      "size": 62056,
+      "sha256": "dev_sha256_5jhwjdcf",
+      "category": "Library",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "delightlib"
     }
   ],
   "accent_color": "#bb86fc",
