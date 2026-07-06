@@ -12,6 +12,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "default"
+    },
+    {
+      "name": "advancednetherite-fabric-2.4.1-26.1.2.jar",
+      "size": 581014,
+      "sha256": "22b1ac273c95a5403ace2e0dca0981df3348b4d645864ba6552574521470adb1",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "advancednetherite"
     }
   ],
   "accent_color": "#ff2a2a",
