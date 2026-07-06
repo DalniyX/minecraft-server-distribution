@@ -3,7 +3,17 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "moredelight-26.05.26-26.1-fabric.jar",
+      "size": 158813,
+      "sha256": "cb7503ec610ae2e9c188850197c247cc67713d017c7264e207f23f3dd3520171",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "moredelight"
+    }
+  ],
   "accent_color": "#ff2a2a",
   "primary_color": "#ff8a00",
   "ai_disabled": false,
