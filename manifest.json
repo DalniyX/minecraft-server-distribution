@@ -12,6 +12,15 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "moredelight"
+    },
+    {
+      "name": "Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "size": 748843,
+      "sha256": "3f168a0a354a4f703ebc22b0bf011df4f2211b3e8b4b561e527c699bb7356ab2",
+      "category": "Resourcepack",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "default"
     }
   ],
   "accent_color": "#ff2a2a",
