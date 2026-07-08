@@ -3,7 +3,17 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "fabric-api-0.151.0+26.1.2.jar",
+      "size": 2498064,
+      "sha256": "8dae604caafc4179617ee87f73bfb4a7885f7db21ed752b375c64e41924641d6",
+      "category": "Optimization",
+      "description": "Загружен через панель.",
+      "version": "1.0.0",
+      "slug": "fabric"
+    }
+  ],
   "accent_color": "#ff0000",
   "primary_color": "#00ff62",
   "ai_disabled": true,
