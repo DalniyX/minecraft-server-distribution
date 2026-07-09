@@ -19,7 +19,7 @@
   "ai_disabled": false,
   "ai_changelog": "",
   "background_image": "https://i.pinimg.com/originals/73/15/b0/7315b0a02379baab7180851f743bd237.png?nii=t",
-  "bg_blur": 6,
+  "bg_blur": 0,
   "modrinth_search_enabled": true,
   "changelog_enabled": true
 }
