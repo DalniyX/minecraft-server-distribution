@@ -12,15 +12,6 @@
       "description": "Загружен через панель.",
       "version": "1.0.0",
       "slug": "fabric"
-    },
-    {
-      "name": "cristellib-fabric-26.1.2-3.1.4.jar",
-      "size": 587133,
-      "sha256": "b90a7adbb30414f59f6e21479b1f1876939d1fb5634fc48bb03f4fbd1b10df57",
-      "category": "Library",
-      "description": "admin_files.desc_manual",
-      "version": "1.0.0",
-      "slug": "cristellib"
     }
   ],
   "accent_color": "#ff7597",
