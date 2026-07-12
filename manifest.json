@@ -3,35 +3,7 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [
-    {
-      "name": "fabric-api-0.151.0+26.1.2.jar",
-      "size": 2498064,
-      "sha256": "8dae604caafc4179617ee87f73bfb4a7885f7db21ed752b375c64e41924641d6",
-      "category": "Optimization",
-      "description": "Загружен через панель.",
-      "version": "1.0.0",
-      "slug": "fabric"
-    },
-    {
-      "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
-      "size": 1889595,
-      "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
-      "category": "Optimization",
-      "description": "desc_manual",
-      "version": "mc26.1.2-0.9.1-fabric",
-      "slug": "sodium"
-    },
-    {
-      "name": "libIPN-fabric-26.1.2-6.8.2.jar",
-      "size": 630741,
-      "sha256": "e72cd91ee26077c9b7c7db12f8ec1db9d3547b9410f1b9290492809d12cc4683",
-      "category": "Optimization",
-      "description": "desc_manual",
-      "version": "fabric-26.1-6.8.2",
-      "slug": "libipn"
-    }
-  ],
+  "files": [],
   "accent_color": "#ff7597",
   "primary_color": "#ffb74d",
   "ai_disabled": false,
