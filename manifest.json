@@ -23,12 +23,12 @@
       "slug": "sodium"
     },
     {
-      "name": "libIPN-fabric-26.1.2-6.8.0.jar",
-      "size": 628598,
-      "sha256": "a269e2de1538ce125611eefeb4281439201d8b2f93b4d3ed883793ebc5797fee",
+      "name": "libIPN-fabric-26.1.2-6.8.2.jar",
+      "size": 630741,
+      "sha256": "e72cd91ee26077c9b7c7db12f8ec1db9d3547b9410f1b9290492809d12cc4683",
       "category": "Optimization",
       "description": "desc_manual",
-      "version": "1.0.0",
+      "version": "fabric-26.1-6.8.2",
       "slug": "libipn"
     }
   ],
