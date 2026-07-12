@@ -3,17 +3,7 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "26.1.2",
   "loader_type": "Fabric",
-  "files": [
-    {
-      "name": "cloth-config-26.1.154.jar",
-      "size": 1135373,
-      "sha256": "fb7a5d869ce10eaac2c2fe9ab84b4fc011a1fbfa575a93be9845a386a7f0c7d3",
-      "category": "Optimization",
-      "description": "admin_files.desc_manual",
-      "version": "1.0.0",
-      "slug": "cloth"
-    }
-  ],
+  "files": [],
   "accent_color": "#ff7597",
   "primary_color": "#ffb74d",
   "ai_disabled": false,
