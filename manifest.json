@@ -21,5 +21,6 @@
   "bg_blur": 0,
   "modrinth_search_enabled": true,
   "changelog_enabled": true,
-  "bg_darkness": 80
+  "bg_darkness": 80,
+  "ai_model": "gemini-2.5-flash"
 }
